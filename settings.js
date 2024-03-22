@@ -22,7 +22,7 @@ module.exports = {
   BOT_NAME : "*𝐌𝐑-𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐌𝐃*",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
+    ALIVE: 'https://telegra.ph/file/8f72b809d11e0206cfebc.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
@@ -36,12 +36,12 @@ module.exports = {
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '*ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴍʀ-ꜱᴀᴄʜɪʏᴀ ᴏꜰꜰɪᴄɪᴀʟ 🇰🇷*',
-  STICKER_PACK : '[ ZUSYCO ]',
-  BAD_WORDS : 'fuck,pussy',
+  STICKER_PACK : 'ꜱᴀᴄʜɪʏᴀ',
+  BAD_WORDS : 'fuck,pussy,sex,cum',
   ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : true,
-  ANTI_LINK_KICK : false,
+  ANTI_LINK_KICK : true,
   MAX_SIZE : 500,
   MOROCCO_NUMBERS : {
         BLOCK : false,
@@ -56,7 +56,7 @@ module.exports = {
   INBOX_BLOCK : false,
   AUTO_REACT : true,
   OWNER_REACT : '🇰🇷',
-  AUTO_BGM : false,
+  AUTO_BGM : true,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
     "leo" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-leo.mp3",
