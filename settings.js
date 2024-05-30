@@ -35,7 +35,7 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '*ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴍʀ-ꜱᴀᴄʜɪʏᴀ ᴏꜰꜰɪᴄɪᴀʟ 🇰🇷*',
+  CAPTION : '*`ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴍʀ-ꜱᴀᴄʜɪʏᴀ ᴏꜰꜰɪᴄɪᴀʟ 🇰🇷`*',
   STICKER_PACK : 'ꜱᴀᴄʜɪʏᴀ',
   BAD_WORDS : 'fuck,pussy,sex,cum',
   ANTI_BAD : true,
