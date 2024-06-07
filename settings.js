@@ -22,7 +22,7 @@ module.exports = {
   BOT_NAME : "*𝐌𝐑-𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐌𝐃*",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://telegra.ph/file/8f72b809d11e0206cfebc.jpg',
+    ALIVE: 'https://telegra.ph/file/c0a25cf54f8b61cd9d2a6.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
